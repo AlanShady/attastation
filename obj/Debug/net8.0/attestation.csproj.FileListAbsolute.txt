@@ -1,0 +1,14 @@
+C:\Users\shami\OneDrive\Рабочий стол\Учеба\языки программирования\attestation\obj\Debug\net8.0\attestation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\shami\OneDrive\Рабочий стол\Учеба\языки программирования\attestation\obj\Debug\net8.0\attestation.AssemblyInfoInputs.cache
+C:\Users\shami\OneDrive\Рабочий стол\Учеба\языки программирования\attestation\obj\Debug\net8.0\attestation.AssemblyInfo.cs
+C:\Users\shami\OneDrive\Рабочий стол\Учеба\языки программирования\attestation\obj\Debug\net8.0\attestation.csproj.CoreCompileInputs.cache
+C:\Users\shami\OneDrive\Рабочий стол\Учеба\языки программирования\attestation\bin\Debug\net8.0\attestation.exe
+C:\Users\shami\OneDrive\Рабочий стол\Учеба\языки программирования\attestation\bin\Debug\net8.0\attestation.deps.json
+C:\Users\shami\OneDrive\Рабочий стол\Учеба\языки программирования\attestation\bin\Debug\net8.0\attestation.runtimeconfig.json
+C:\Users\shami\OneDrive\Рабочий стол\Учеба\языки программирования\attestation\bin\Debug\net8.0\attestation.dll
+C:\Users\shami\OneDrive\Рабочий стол\Учеба\языки программирования\attestation\bin\Debug\net8.0\attestation.pdb
+C:\Users\shami\OneDrive\Рабочий стол\Учеба\языки программирования\attestation\obj\Debug\net8.0\attestation.dll
+C:\Users\shami\OneDrive\Рабочий стол\Учеба\языки программирования\attestation\obj\Debug\net8.0\refint\attestation.dll
+C:\Users\shami\OneDrive\Рабочий стол\Учеба\языки программирования\attestation\obj\Debug\net8.0\attestation.pdb
+C:\Users\shami\OneDrive\Рабочий стол\Учеба\языки программирования\attestation\obj\Debug\net8.0\attestation.genruntimeconfig.cache
+C:\Users\shami\OneDrive\Рабочий стол\Учеба\языки программирования\attestation\obj\Debug\net8.0\ref\attestation.dll
