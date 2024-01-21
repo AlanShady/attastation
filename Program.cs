@@ -22,3 +22,6 @@ void PrintArray(string[] array1)
     }
     Console.WriteLine();
 }
+SecondArray();
+Console.WriteLine("Массив коротких строк: ");
+PrintArray(shortArray);
